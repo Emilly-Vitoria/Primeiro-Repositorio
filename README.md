@@ -1,4 +1,4 @@
 # Primeiro repositório
- Primeiro repositório do curso em vídeo
+ Desafio de projeto com Git/Github da DIO.
 
 Teste de primeiro repositório com git e github.
